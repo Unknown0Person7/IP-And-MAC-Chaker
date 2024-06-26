@@ -3,7 +3,7 @@
 # created by JH Hacker
 # IP And MAC Address Chacker
 
-source ./test-1.sh
+source ./banner.sh
 
 echo "Enter 1 To Check Your IP"
 echo "Enter 2 To Check Your MAC Address"
