@@ -1,9 +1,17 @@
 #!/bin/bash
 
-# created by JH Hacker
+# created by Unknown Person
 # IP And MAC Address Chacker
 
-source ./banner.sh
+banner(){
+banner "##########################################"
+banner "##                                      ##"
+banner "##      IP And MAC Address Chacker      ##"
+banner "##                      		##"
+banner "##        Created Unknown Person        ##"
+banner "##                                      ##"
+banner "#########################################"
+}
 
 manu(){
 echo "Enter 1 To Check Your IP"
